@@ -240,7 +240,7 @@ def banner():
     
     clr()
     logo="""                                                  
-   (っ◔◡◔)っ ♥ HaCkBoom
+   (っ◔◡◔)っ ♥ HackerAnonyKim
    bySck ♥ """
     print(random.choice(colors)+logo+W)
     print("\n")
@@ -282,7 +282,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\อินเทอร์เน็ตช้าประผลไม่สำเร็จ...")
-        print('\t\tHaCkBoom หยุดทำงาน...\n\n')
+        print('\t\หยุดทำงาน...\n\n')
         banner()
         exit()
 
@@ -427,9 +427,9 @@ def start(target, counter, delay, ch, cc):
                     banner()
                     exit()
                 else:
-                    print('\n\n\tมีปัณหากรุณาติดต่อได้ที่...')
+                    print('\n\n\tมีปัญหากรุณาติดต่อได้ที่...')
                     print(
-                        '\t\tอีเมล bosbosbos11465111@gmail.com...')
+                        '\t\t เฟสบุ๊ค https://web.facebook.com/anony.kim1?ref=bookmarks...')
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
@@ -442,8 +442,8 @@ def start(target, counter, delay, ch, cc):
         print("             ส่งสำเร็จ    : ", success)
         print("             ส่งล้มเหลว        : ", failed)
         print("==================================================================")
-        print("              กดติดตามช่องกู Scriptking SCK !!                ")
-        print("              กลุ่มสังกัดFacebook : BabooToken !!                ")
+        print("              เฟสบุ๊คส่วนตัวของกู AnonyKim !!                ")
+        print("              สังกัด : AnonyKiM !!                ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)
@@ -612,7 +612,7 @@ if nm == 0:
     print("             เวลา               : ", dl)
     print("==================================================================")
     print("               !!                ")
-    print("            หำใหญ่!!                ")
+    print("            AnonyKim !!                ")
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
