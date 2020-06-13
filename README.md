@@ -1,7 +1,7 @@
 # Bz-SMS
 pkg install git
 
-git clone https://github.com/scriptkingSCK/HackBoom
+git clone https://github.com/HackerGithub25/Bz-SMS
 
 pkg install python
 
