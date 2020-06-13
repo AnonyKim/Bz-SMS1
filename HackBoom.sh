@@ -11,7 +11,7 @@ echo -e "\e[1;31m"
 figlet AnonyKim
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border Kim
-echo -e "\e[4;34m Scriptking SCK  \e[0m"
+echo -e "\e[4;34m AnonyKim  \e[0m"
 echo -e "\e[1;34m ช่องทางในการติดต่อ !!!\e[0m"
 echo -e "\e[1;32m      Facebookส่วนตัว : https://web.facebook.com/anony.kim1?ref=bookmarks  \e[0m"
 echo -e "\e[4;32m   Twitter: https://twitter.com/AnonyKim \e[0m"
