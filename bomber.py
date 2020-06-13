@@ -241,7 +241,7 @@ def banner():
     clr()
     logo="""                                                  
    (っ◔◡◔)っ ♥ HackerAnonyKim
-   bySck ♥ """
+   byAnonymous ♥ """
     print(random.choice(colors)+logo+W)
     print("\n")
 
@@ -443,7 +443,7 @@ def start(target, counter, delay, ch, cc):
         print("             ส่งล้มเหลว        : ", failed)
         print("==================================================================")
         print("              เฟสบุ๊คส่วนตัวของกู AnonyKim !!                ")
-        print("              สังกัด : AnonyKiM !!                ")
+        print("              สังกัด : Anonymous !!                ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)
