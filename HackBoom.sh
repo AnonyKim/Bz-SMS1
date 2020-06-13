@@ -8,7 +8,7 @@ echo "Press Enter To Continue"
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet AnonyKim
+figlet HackBoom
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border Kim
 echo -e "\e[4;34m AnonyKim  \e[0m"
