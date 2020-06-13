@@ -5,16 +5,20 @@ import time, re, sys
 from requests import Session
 s = Session()
 
-intro = """  ▒▄█▀▀█░▐█▀█▒▐█▒▐▀
-  ▒▀▀█▄▄░▐█──▒▐██▌░
-  ▒█▄▄█▀░▐█▄█▒▐█▒▐▄
+intro = """  
+██╗░░██╗██╗███╗░░░███╗
+██║░██╔╝██║████╗░████║
+█████═╝░██║██╔████╔██║
+██╔═██╗░██║██║╚██╔╝██║
+██║░╚██╗██║██║░╚═╝░██║
+╚═╝░░╚═╝╚═╝╚═╝░░░░░╚═╝
 
-กลุ่มFacebook :https://m.facebook.com/groups/511014426089032
-ช่องYoutube  :https://m.youtube.com/channel/UCAgvG9YzURgLGGeEivig4vg
+Facebook ส่วนตัว :https://web.facebook.com/anony.kim1?ref=bookmarks
+ทวิตเตอร์  :https://twitter.com/AnonyKim
 """
 print(intro)
 
-print("กรอกเบอร์ที่จะยิง (ตัวอย่าง +66912345678)")
+print("กรอกเบอร์ที่จะยิง (ตัวอย่าง +66981713025)")
 try:
 	no = int(input("ใส่เบอร์    : "))
 	jml = int(input("ใส่จำนวนที่ต้องการโทรเข้า : "))
