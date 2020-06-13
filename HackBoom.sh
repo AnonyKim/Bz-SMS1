@@ -34,7 +34,7 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call HackBoom SCK'
+echo 'Call HackBoom AnonyKim'
 python Spam.py
 rm *.xxx >/dev/null 2>&1
 exit 0
@@ -94,9 +94,9 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet AnonyKim
+figlet HackBoom
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border Kim
+toilet -f mono12 -F border AnonyKim
 echo -e "\e[1;34m ควย!!!\e[0m"
 echo " "
 exit 0
