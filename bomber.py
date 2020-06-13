@@ -240,8 +240,12 @@ def banner():
     
     clr()
     logo="""                                                  
-   (っ◔◡◔)っ ♥ HackerAnonyKim
-   byAnonymous ♥ """
+   
+╔══╗─────────╔╦╦╗
+║╔╗╠═╦╦═╦═╦╦╦╣╔╬╬══╗
+║╠╣║║║║╬║║║║║║╚╣║║║║
+╚╝╚╩╩═╩═╩╩═╬╗╠╩╩╩╩╩╝
+───────────╚═╝  """
     print(random.choice(colors)+logo+W)
     print("\n")
 
