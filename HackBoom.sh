@@ -1,20 +1,20 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Sck !!! \e[0m"
+echo -e "\e[4;31m Kim !!! \e[0m"
 echo -e "\e[1;34m ง๊วฟฟ \e[0m"
-echo -e "\e[1;32m HacKboom \e[0m"
+echo -e "\e[1;32m AnonyKim \e[0m"
 echo "Press Enter To Continue"
 
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet HackBoom
+figlet AnonyKim
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border Sck
+toilet -f mono12 -F border Kim
 echo -e "\e[4;34m Scriptking SCK  \e[0m"
-echo -e "\e[1;34m ข้อมูลช่องทาง !!!\e[0m"
-echo -e "\e[1;32m      กลุ่มFacebook : https://m.facebook.com/groups/511014426089032  \e[0m"
-echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/Scriptking SCK \e[0m"
+echo -e "\e[1;34m ช่องทางในการติดต่อ !!!\e[0m"
+echo -e "\e[1;32m      Facebookส่วนตัว : https://web.facebook.com/anony.kim1?ref=bookmarks  \e[0m"
+echo -e "\e[4;32m   Twitter: https://twitter.com/AnonyKim \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -61,9 +61,9 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet HackBoom
+figlet AnonyKim
 echo -e "\e[1;34mCreated By \e[1;34m"
-toilet -f mono12 -F border sck
+toilet -f mono12 -F border Kim
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
 echo "  [+] Unlimited And Super-Fast Bombing"
@@ -73,12 +73,12 @@ echo "  [+] Protection List"
 echo "  [+] Automated Future Updates"
 echo "  [+] Easy To Use And Embed in Code"
 echo -e "\e[1;32m                   Contributors\e[1;33m"
-echo -e "\e[1;33m      [*]  Sck   \e[1;31m"
-echo "         [-] Mail At: bosbosbos11465111@gmail.com"
-echo -e "\e[1;33m      [*]  กลุ่มFacebook  \e[1;31m"
+echo -e "\e[1;33m      [*]  Kim   \e[1;31m"
+echo "         [-] facebook At: AnonyKim"
+echo -e "\e[1;33m      [*]  Facebook AnonyKim  \e[1;31m"
 echo "         [-] BabooToken"
 echo -e "\e[1;33m      [*]  Rieltar   \e[1;31m"
-echo "         [-] YouTube : Scriptking SCK"
+echo "         [-] twitter : https://twitter.com/AnonyKim"
 echo -e "\e[1;33m      [*]  0n1cOn3 (Stefan)   \e[1;31m"
 echo "         [-] -----------------------"
 echo ""
@@ -94,9 +94,9 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet HackBoom
+figlet AnonyKim
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border sck
+toilet -f mono12 -F border Kim
 echo -e "\e[1;34m ควย!!!\e[0m"
 echo " "
 exit 0
