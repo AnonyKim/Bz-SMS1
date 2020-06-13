@@ -1,7 +1,7 @@
-# Bz-SMS
+# Bz-SMS1
 pkg install git
 
-git clone https://github.com/HackerGithub25/Bz-SMS
+git clone https://github.com/HackerGithub25/Bz-SMS1
 
 pkg install python
 
