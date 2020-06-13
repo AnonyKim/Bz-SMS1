@@ -14,3 +14,5 @@ cd HackBoom
 pip install requirements.txt
 
 pip install requests
+
+# ขอให้สนุกไอ้พวกเหี้ย
