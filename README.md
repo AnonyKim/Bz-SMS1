@@ -1,7 +1,7 @@
 # SMS HackBoomThai1
 pkg install git
 
-git clone https://github.com/AnonyKim/HackBoomThai
+git clone https://github.com/AnonyKim/HackBoomThai1
 
 pkg install python
 
