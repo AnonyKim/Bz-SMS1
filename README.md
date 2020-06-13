@@ -1,7 +1,7 @@
-# Bz-SMS1
+# SMS HackBoomThai
 pkg install git
 
-git clone https://github.com/HackerGithub25/Bz-SMS1
+git clone https://github.com/HackerGithub25/HackBoomThai
 
 pkg install python
 
