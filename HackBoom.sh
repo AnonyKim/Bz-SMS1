@@ -10,7 +10,7 @@ clear
 echo -e "\e[1;31m"
 figlet HackBoom
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border Kim
+toilet -f mono12 -F border AnonyKim
 echo -e "\e[4;34m AnonyKim  \e[0m"
 echo -e "\e[1;34m ช่องทางในการติดต่อ !!!\e[0m"
 echo -e "\e[1;32m      Facebookส่วนตัว : https://web.facebook.com/anony.kim1?ref=bookmarks  \e[0m"
@@ -42,7 +42,7 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/scriptkingSCK/HackBoom
+git clone https://github.com/AnonyKim/HackBoomThai
 if [[ -s HackBoom/HackBoom.sh ]];then
 cd HackBoom
 cp -r -f * .. > temp
